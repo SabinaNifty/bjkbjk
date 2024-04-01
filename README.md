@@ -28,6 +28,5 @@ To run this program, you need to have Java installed on your system. Follow thes
 "stat_of_warnings": {
  "AbstractClassWithoutAbstractMethod": 1908,
  "AvoidReassigningCatchVariables": 2020
- // Add other warning types here if needed
 }
 }
